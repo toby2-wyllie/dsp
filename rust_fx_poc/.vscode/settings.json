@@ -1,5 +1,0 @@
-{
-    "rust-analyzer.linkedProjects": [
-        "./src/freeverb/src/Cargo.toml"
-    ]
-}
